@@ -6,6 +6,14 @@ Beyond horizon is an app we have developed that addresses the issue posed by the
 
 You can find all the technical details of the project here: [Dowload PDF](https://drive.google.com/file/d/1IU9bx-2ejSo0HHmrbVRZHzcxvkcIpqw0/view?usp=sharing)
 
+## Builds
+
+You can download the app from here:
+v1.07: 20k stars around each planet + star color correction: [Download v1.06](https://drive.google.com/file/d/1mn850jtW48LBSUc3E1c5f21xL1L-uVYx/view?usp=sharing)
+v1.06: 10k stars around each planet: [Download v1.06](https://drive.google.com/file/d/1ENZFVHz--x8HAr5L1uj61iJ0u6_FMxb5/view?usp=sharing)
+
+Instructions: extract the .zip file and open the app using the .exe file
+
 ## Note for developer
 
 The "Data Analysis" folder contains the python script that writes data in different .txt files. In order for changing data one must paste those files inside "Assets/StreamingAssests/". The python script also uses a .csv file which you can acquire using the ADQL query from documentation.   
