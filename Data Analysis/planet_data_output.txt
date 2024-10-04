@@ -1,0 +1,100 @@
+Proxima Cen b
+eps Eri b
+GJ 887 b
+GJ 887 c
+Ross 128 b
+GJ 15 A b
+GJ 15 A c
+tau Cet e
+tau Cet f
+tau Cet g
+tau Cet h
+eps Ind A b
+GJ 1061 b
+GJ 1061 c
+GJ 1061 d
+YZ Cet b
+YZ Cet c
+YZ Cet d
+Teegarden's Star b
+Teegarden's Star c
+Teegarden's Star d
+Kapteyn c
+Wolf 1061 b
+Wolf 1061 c
+Wolf 1061 d
+GJ 9066 c
+GJ 674 b
+GJ 687 b
+GJ 687 c
+GJ 876 b
+GJ 876 c
+GJ 876 d
+GJ 876 e
+GJ 1002 b
+GJ 1002 c
+GJ 832 b
+GJ 682 b
+GJ 682 c
+GJ 3323 b
+GJ 3323 c
+GJ 251 b
+GJ 411 b
+HD 95735 c
+GJ 229 A c
+GJ 229 b
+HD 180617 b
+GJ 273 b
+GJ 273 c
+HD 20794 b
+HD 20794 c
+HD 20794 d
+HD 20794 e
+HN Lib b
+GJ 896 A b
+GJ 581 b
+GJ 581 c
+GJ 581 e
+GJ 338 B b
+GJ 625 b
+HD 219134 b
+HD 219134 c
+HD 219134 d
+HD 219134 f
+HD 219134 g
+HD 219134 h
+LTT 1445 A b
+LTT 1445 A c
+GJ 393 b
+GJ 667 C b
+GJ 667 C c
+GJ 667 C e
+GJ 667 C f
+GJ 667 C g
+GJ 514 b
+GJ 1151 c
+GJ 486 b
+Gl 686 b
+61 Vir b
+61 Vir c
+61 Vir d
+CD Cet b
+HD 192310 b
+HD 192310 c
+GJ 849 b
+GJ 849 c
+GJ 433 b
+GJ 433 c
+GJ 433 d
+HD 102365 b
+GJ 367 b
+GJ 367 c
+GJ 367 d
+GJ 357 b
+GJ 357 c
+GJ 357 d
+HD 285968 b
+GJ 3512 b
+GJ 3512 c
+Wolf 1069 b
+GJ 680 b
