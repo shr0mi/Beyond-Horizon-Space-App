@@ -6,7 +6,7 @@ Beyond horizon is an app we have developed that addresses the issue posed by the
 
 ## Documentation
 
-You can find all the technical details of the project here: [Dowload PDF](https://drive.google.com/file/d/1IU9bx-2ejSo0HHmrbVRZHzcxvkcIpqw0/view?usp=sharing)
+You can find all the technical details of the project here: [Download PDF](https://drive.google.com/file/d/1IU9bx-2ejSo0HHmrbVRZHzcxvkcIpqw0/view?usp=sharing)
 
 ## Builds
 
