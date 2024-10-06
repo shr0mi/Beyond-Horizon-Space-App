@@ -12,7 +12,7 @@ You can find all the technical details of the project here: [Dowload PDF](https:
 
 You can download the app from here:
 
-v1.07: 20k stars around each planet + star color correction: [Download v1.07](https://drive.google.com/file/d/1mn850jtW48LBSUc3E1c5f21xL1L-uVYx/view?usp=sharing)
+v1.07: 20k stars around each planet + star color correction: [Download v1.07](https://drive.google.com/file/d/1ZqEF0NvHuKYqWg_JuBDLZGxIiH9sh1mi/view?usp=sharing)
 
 v1.06: 10k stars around each planet: [Download v1.06](https://drive.google.com/file/d/1ENZFVHz--x8HAr5L1uj61iJ0u6_FMxb5/view?usp=sharing)
 
