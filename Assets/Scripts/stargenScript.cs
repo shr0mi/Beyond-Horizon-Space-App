@@ -282,10 +282,18 @@ public class stargenScript : MonoBehaviour
             for(int i=1;i<=totalPlanetNum;i++){
                 if(planet_name_input.ToLower()==planet_name[i-1].ToLower()){
                     planet_num = i;
-                    DestroyPreviousStar();
-                    GenerateStars();
+
+                    int temp = planet_num-1;
+                    if(prev_planet_ra != p_ra[temp] && prev_planet_dec != p_dec[temp] &&  prev_planet_parallax != p_parallax[temp]){
+                        DestroyPreviousStar();
+                        prev_planet_ra = p_ra[temp]; prev_planet_dec = p_dec[temp]; prev_planet_parallax = p_parallax[temp]; 
+                        ReadCoordinates(filePath + temp.ToString() +".txt");
+                        GenerateStars();
+                    }
                     SetUiPlanetText();
                     SetUiPlanetData();
+
+                    player.GetComponent<playerScript>().ChangeStarDatasheetData(planet_num);
 
                     ui_planet_name_input.SetActive(false);
                     player.GetComponent<playerScript>().enabled = true;
