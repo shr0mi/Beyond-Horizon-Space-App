@@ -371,6 +371,7 @@ for i in range(0, 100):
 
     #A list that contains (distance, index)
     dis_list = []
+    sorted_dis_list = []
 
     #Write Planet Info
     file_planet.write(planet_name[i] + "\n")
@@ -380,9 +381,9 @@ for i in range(0, 100):
         prev_x, prev_y, prev_z = x_p, y_p, z_p
         for j in range(len(ra)):
             # Calculating Star Coords
-            phi = np.deg2rad(90.0 - float(dec[i]))
-            theta = np.deg2rad(float(ra[i]))
-            p = 1000/float(parallax[i]) #mas to parsec
+            phi = np.deg2rad(90.0 - float(dec[j]))
+            theta = np.deg2rad(float(ra[j]))
+            p = 1000/float(parallax[j]) #mas to parsec
 
             x = p * np.sin(phi) * np.cos(theta) * coordMultiplier
             y = p * np.sin(phi) * np.sin(theta) * coordMultiplier
